@@ -226,7 +226,7 @@ function create_config( )
     "get",
     "broadcast",
     "invite",
-    "all",
+    "sudo_users = {311348627},",
     "leave_ban",
 	"supergroup",
 	"whitelist",
